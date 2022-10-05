@@ -1,1 +1,1 @@
-# SQL_queries
+Queries from SQL Data Analysis I. course (MSSQL).
